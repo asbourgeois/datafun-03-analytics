@@ -69,7 +69,7 @@ Follow the detailed instructions at:
 3. Clone to local: Open a **machine terminal** in your **`Repos`** folder and clone your new repo.
 
   ```shell
-  git clone https://github.com/YOURACCOUNT/datafun-03-analytics
+  git clone https://github.com/asbourgeois/datafun-03-analytics
   ```
 
 4. Open project in VS Code: Change directory into the repo and open the project in VS Code by running `code .` ("code dot"):
@@ -142,7 +142,7 @@ OR: Run them as modules (preferred):
 
 ```shell
 uv run python -m datafun_03_analytics.app_case
-uv run python -m datafun_03_analytics.app_yourname
+uv run python -m datafun_03_analytics.app_asbourgeois
 ```
 
 For more see: [Running Python Reliably](https://denisecase.github.io/pro-analytics-02/06-python/running-python/).
