@@ -14,7 +14,7 @@ TODO: Your module should have:
 TODO: Import and call your new module run_pipeline function in this script.
 
 Author: Alexia Bourgeois
-Date: 2026-01
+Date: 2026-01-31
 
 Practice key Python skills:
 - pathlib for cross-platform paths
