@@ -1,0 +1,6 @@
+CSV Logged GDP by Capita Statistics
+Count: 153
+Minimum: 6.49
+Maximum: 11.45
+Mean: 9.30
+Standard Deviation: 1.20
