@@ -157,7 +157,9 @@ def run_csv_pipeline(*, raw_dir: Path, processed_dir: Path, logger: Any) -> None
     output_file = processed_dir / "asbourgeois_csv_logged_gdp_by_capita_stats.txt"
 
     # E
-    scores = extract_csv_scores(file_path=input_file, column_name="Logged GDP per capita")
+    scores = extract_csv_scores(
+        file_path=input_file, column_name="Logged GDP per capita"
+    )
 
     # T
     stats = transform_scores_to_stats(scores=scores)
